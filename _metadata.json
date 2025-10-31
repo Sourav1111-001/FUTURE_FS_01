@@ -1,0 +1,52 @@
+{
+  "hash": "b226f9ce",
+  "configHash": "22896753",
+  "lockfileHash": "556d916a",
+  "browserHash": "d1ad4a3e",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "dd3468c6",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "d30f8e56",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "afc3ce32",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "0d9cbf65",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4bd008ee",
+      "needsInterop": true
+    },
+    "react-helmet-async": {
+      "src": "../../react-helmet-async/lib/index.esm.js",
+      "file": "react-helmet-async.js",
+      "fileHash": "3b4e635a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZEJDETLQ": {
+      "file": "chunk-ZEJDETLQ.js"
+    },
+    "chunk-AQI5YXZE": {
+      "file": "chunk-AQI5YXZE.js"
+    }
+  }
+}
